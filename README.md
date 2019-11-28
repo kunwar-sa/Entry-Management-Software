@@ -4,7 +4,7 @@ The Assignment for Innovaccer SummerGeeks program
 *IMPORTANT*
 
 I started making this application on 27th November (and the submission deadline was on 28th November)
-because on 27th my college sent me the mail about this programm.
+because on 27th my college sent me the mail about this programe.
 Everything that you see here has been made overnight and in less than 24 hours.
 I gave it all I had.
 I managed to meet all the requirements of the the assignment like sending visitor details
@@ -14,10 +14,10 @@ If I had been working on this from 18th November like everyone else I would have
 
 SO PLEASE CONSIDER MY CHALLENGING SITUATION DURING EVALUATION. I AM CAPABLE OF MUCH MORE.
 
-For detailed report of this product read the "READ THIS>pdf" file...
+For detailed report of this product read the "READ THIS.pdf" file...
 
 TOOLS USED:
-Flask (A python min-framework)
+Flask (A python mini-framework)
 Python (Databases, routes, sessions, encryption)
 SQLite (Database)
 HTML (Layout)
