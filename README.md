@@ -57,5 +57,5 @@ Also go to https://myaccount.google.com/u/2/lesssecureapps
 And change “Allow less secure apps:” to ON
 Or else google will not let you send email from the above email
 
-
+Read the "READ THIS.pdf" for more details.
 
