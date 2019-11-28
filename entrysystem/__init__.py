@@ -16,8 +16,8 @@ login_manager.login_message_category = 'info'
 app.config['MAIL_SERVER'] = 'smtp.googlemail.com'
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = 'odinson947@gmail.com'
-app.config['MAIL_PASSWORD'] = 'Bullet$4MyV@lentine'
+app.config['MAIL_USERNAME'] = 'odinson947@gmail.com' #replace this by your own email which you have access to
+app.config['MAIL_PASSWORD'] = '**************'       #and use that password here
 mail = Mail(app)
 
 from entrysystem import routes
