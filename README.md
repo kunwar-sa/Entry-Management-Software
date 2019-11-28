@@ -31,7 +31,8 @@ Once the user’s visit is over and he wants to check out, he can click on the �
 Pressing the check out button will trigger an email  to the visitor himself…Containing his session details
 
 How to run:
-Visit http://entryms.herokuapp.com
+Visit http://entryms.herokuapp.com (You may or may not get an "Internal Server Error" from heroku.com on checking out.
+Just hit the refresh button to get rid of it.)
 OR
 Download it from my github repository. 
 Open the root folder
