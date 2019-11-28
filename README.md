@@ -14,6 +14,8 @@ If I had been working on this from 18th November like everyone else I would have
 
 SO PLEASE CONSIDER MY CHALLENGING SITUATION DURING EVALUATION. I AM CAPABLE OF MUCH MORE.
 
+For detailed report of this product read the "READ THIS>pdf" file...
+
 TOOLS USED:
 Flask (A python min-framework)
 Python (Databases, routes, sessions, encryption)
@@ -31,15 +33,16 @@ Once the user’s visit is over and he wants to check out, he can click on the �
 Pressing the check out button will trigger an email  to the visitor himself…Containing his session details
 
 How to run:
-Visit http://entryms.herokuapp.com (You may or may not get an "Internal Server Error" from heroku.com on checking out.
-Just hit the refresh button to get rid of it.)
+Visit http://entryms.herokuapp.com (HEROKU IS (sometimes)GIVING 'INTERNAL SERVER ERROR' ON CLICKING THE 'CHECK OUT' BUTTON.
+IT IS NOT A PROBLEM WITH THE APP BUT WITH HEROKU SERVER AND CAN BE RESOLVED BY REFRESHING THE ERROR SCREEN(keep hitting refresh
+till you see the 'checked out' alert :P))
 OR
 Download it from my github repository. 
-Open the root folder
+Open the root folder and run the 'run' python file.
 Open the command prompt or terminal in root directory.
-Run ‘python run.py’
-Copy the localhost address ‘http://127.0.0.1:5000/’
-And open it in your browser
+Execute this command : ‘python run.py’
+Copy the localhost address similar to this from the terminal : ‘http://127.0.0.1:5000/’
+And (paste)open it in your browser
 Requirements:
 Python Installed
 Environment Variable for python command set(to run from the Command Prompt)
