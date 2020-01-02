@@ -1,19 +1,6 @@
 # InnovaccerAssignment
 The Assignment for Innovaccer SummerGeeks program
 
-*IMPORTANT*
-
-I started making this application on 27th November (and the submission deadline was on 28th November)
-because on 27th my college sent me the mail about this programe.
-Everything that you see here has been made overnight and in less than 24 hours.
-I gave it all I had.
-I managed to meet all the requirements of the the assignment like sending visitor details
-through email to host on check in and to the visitor when he checks out.
-If I had been working on this from 18th November like everyone else I would have made it a 
-10 times better including SMS notification and multiple visitor sessions.
-
-SO PLEASE CONSIDER MY CHALLENGING SITUATION DURING EVALUATION. I AM CAPABLE OF MUCH MORE.
-
 For detailed report of this product read the "READ THIS.pdf" file...
 
 TOOLS USED:
